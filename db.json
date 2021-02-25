@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "name": "Lenovo ideapad slim 5",
+      "email": "brupesh101995@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "something",
+      "email": "something@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "javascript",
+      "email": "learningjavascript@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "python",
+      "email": "learningpython@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "nodejs",
+      "email": "learningnodejs@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "golang",
+      "email": "learninggolang@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Redux",
+      "email": "Redux@gmail.com",
+      "id": 16
+    }
+  ]
+}
