@@ -1,2 +1,2 @@
 step1 : npm start
-step2 : npx json-server db.json --port 3001
+step2 :  json-server db.json --port 3001
